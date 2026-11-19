@@ -1,0 +1,4 @@
+out/
+target/
+*.class
+data/exported-availability.csv
